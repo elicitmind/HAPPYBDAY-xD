@@ -1,0 +1,56 @@
+
+
+
+/******************************TAG SELEKTORZ******************/
+body {
+  background-color: #de5454;
+  color:  #5fd35f;
+  font-family: Antonio;
+  font-style: italic;
+  font-size: 18px;
+
+  font-weight: 900;
+}
+h1 {
+  color: firebrick;
+  font-style: italic;
+  font-size: 50px;
+  font-family: fantasy;
+  margin-left: 55px;
+  margin-top: 80px;
+  transform: rotate(5deg);
+  display: inline-block;
+}
+h1:hover {
+  transform: rotate(10deg);
+}
+img {
+  padding: 2rem;
+}
+.bacon {
+  background-color: firebrick;
+  border-radius: 5px;
+  width: 150px;
+  margin-left: 45px;
+  transform: rotate(5deg);
+}
+div {
+  display: inline-block;
+  transform: rotate(10deg);
+  margin-left: 8px;
+}
+div:hover {
+  transform: rotate(34deg);
+}
+/*****************************CLASS SELEKTORZ******************/
+.egg {
+  background-color: #5fd35f;
+}
+.egg:hover {
+  transform: rotate(10deg);
+}
+.bacon:hover {
+  transform: rotate(10deg);
+}
+
+/*****************************ID SELEKTORZ*********************/
